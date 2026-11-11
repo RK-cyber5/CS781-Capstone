@@ -2,7 +2,7 @@
 
 ## Student information
 
-- **Name:** Rohith Kumar
+- **Name:** Mutaka Rohith Kumar
 - **Roll Number:** 240671
 - **Institute:** IIT Kanpur
 - **Email:** rohithk24@iitk.ac.in
